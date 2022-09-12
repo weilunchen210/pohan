@@ -7,7 +7,7 @@ from GlitchMon import GlitchMon
 from pokemon_base import PokemonBase
 from random import randint
 
-
+dsdsdsdsdsds #gay
 class MissingNo(GlitchMon):
     NAME = "MissingNo"
 
